@@ -158,4 +158,4 @@ yarn lint
 
 If you appreciated this, feel free to follow me or donate!
 
-ETH/Polygon/Avalanche/etc Address: 0x70997970C51812dc3A010C7d01b50e0d17dc79C8
+ETH/Polygon/Avalanche/etc Address: 0xBC18F9A92DE18bCDE607a46527a819c54667AC90
